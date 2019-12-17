@@ -11,3 +11,4 @@
 - Simulator that creates flash memory, reads data in physical sectors, inputs data, and erases data in blocks
 - No limit on FlashMem Storage File creation capacity<br>
 - Unable to overwrite the same physical sector location<br>
+[![HitCount](http://hits.dwyl.io/hyung8789/FlashMem_Simulator.svg)](http://hits.dwyl.io/hyung8789/FlashMem_Simulator)
