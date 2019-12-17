@@ -1,5 +1,7 @@
 # FlashMem_Simulator
 
+# Simulator that creates flash memory, reads data in physical sectors, inputs data, and erases data in blocks
+<br>
 |명령어|의미|
 |---|:---:|
 |init x or i x | Create x MB Storage File |
