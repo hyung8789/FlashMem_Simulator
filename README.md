@@ -1,4 +1,4 @@
-# FlashMem_Simulator
+# FlashMem_Simulator (플래시 메모리 시뮬레이터)
 
 |명령어|의미|
 |---|:---:|
