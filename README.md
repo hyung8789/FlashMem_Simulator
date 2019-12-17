@@ -1,6 +1,6 @@
 # FlashMem_Simulator
 
-# Simulator that creates flash memory, reads data in physical sectors, inputs data, and erases data in blocks
+Simulator that creates flash memory, reads data in physical sectors, inputs data, and erases data in blocks
 <br>
 |명령어|의미|
 |---|:---:|
