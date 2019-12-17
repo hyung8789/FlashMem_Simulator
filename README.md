@@ -1,6 +1,6 @@
 # FlashMem_Simulator (플래시 메모리 시뮬레이터)
 
-|명령어|의미|
+| Command | Action |
 |---|:---:|
 |init x or i x | Create x MB Storage File |
 |read PSN or r PSN | Read data at Physical Sector Num(PSN) Position |
