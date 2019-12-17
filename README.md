@@ -7,5 +7,6 @@
 |write PSN data or w PSN data | Write data at Physical Sector Num(PSN) Position |
 |erase PBN or e PBN | Erase data at Physical Block Num(PBN) Position |
 <br>
----
-- No limit on FlashMem Storage File creation capacity
+
+- No limit on FlashMem Storage File creation capacity<br>
+- Unable to overwrite the same physical sector location<br>
