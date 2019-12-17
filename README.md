@@ -1,8 +1,5 @@
 # FlashMem_Simulator
 
-Simulator that creates flash memory, reads data in physical sectors, inputs data, and erases data in blocks
-
-|---|:---:|
 |명령어|의미|
 |---|:---:|
 |init x or i x | Create x MB Storage File |
@@ -11,5 +8,6 @@ Simulator that creates flash memory, reads data in physical sectors, inputs data
 |erase PBN or e PBN | Erase data at Physical Block Num(PBN) Position |
 <br>
 
+- Simulator that creates flash memory, reads data in physical sectors, inputs data, and erases data in blocks
 - No limit on FlashMem Storage File creation capacity<br>
 - Unable to overwrite the same physical sector location<br>
